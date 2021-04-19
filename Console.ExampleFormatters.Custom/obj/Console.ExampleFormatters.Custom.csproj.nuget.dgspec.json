@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\Console.ExampleFormatters.Custom\\Console.ExampleFormatters.Custom.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\Console.ExampleFormatters.Custom\\Console.ExampleFormatters.Custom.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\Console.ExampleFormatters.Custom\\Console.ExampleFormatters.Custom.csproj",
+        "projectName": "Console.ExampleFormatters.Custom",
+        "projectPath": "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\Console.ExampleFormatters.Custom\\Console.ExampleFormatters.Custom.csproj",
+        "packagesPath": "C:\\Users\\v-chmeha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\Console.ExampleFormatters.Custom\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\v-chmeha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Azure.Management.DataFactory": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Microsoft.Azure.Management.ResourceManager": {
+              "target": "Package",
+              "version": "[3.12.1-preview, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

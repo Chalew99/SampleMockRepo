@@ -1,0 +1,17 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\nunit.engine.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\nunit.engine.api.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\nunit.engine.core.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\NUnitDemoProjectTest.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\NUnitDemoProjectTest.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\nunit.framework.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\NunitTest.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\NunitTest.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\NunitTest.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\bin\Debug\nunit.framework.xml
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\obj\Debug\NUnitDemoProjectTest.csprojAssemblyReference.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\obj\Debug\NUnitDemoProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\obj\Debug\NUnitDemoProjectTest.csproj.CopyComplete
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\obj\Debug\NUnitDemoProjectTest.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitDemoProjectTest\obj\Debug\NUnitDemoProjectTest.pdb

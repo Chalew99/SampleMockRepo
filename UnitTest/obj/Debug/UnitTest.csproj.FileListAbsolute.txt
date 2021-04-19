@@ -1,0 +1,5 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\UnitTest\obj\Debug\UnitTest.pdb

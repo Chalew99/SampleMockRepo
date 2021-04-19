@@ -1,0 +1,6 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\TLSGExample\bin\Debug\TLSGExample.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\TLSGExample\bin\Debug\TLSGExample.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\TLSGExample\bin\Debug\TLSGExample.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\TLSGExample\obj\Debug\TLSGExample.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\TLSGExample\obj\Debug\TLSGExample.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\TLSGExample\obj\Debug\TLSGExample.pdb

@@ -1,0 +1,16 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\SampleMockProject.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\SampleMockProject.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\SampleMockProject.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\Castle.Core.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\Moq.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\Castle.Core.xml
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\Moq.xml
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\obj\Debug\SampleMockProject.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\obj\Debug\SampleMockProject.csproj.CopyComplete
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\obj\Debug\SampleMockProject.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\obj\Debug\SampleMockProject.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\SampleMockProject\obj\Debug\SampleMockProject.csprojAssemblyReference.cache

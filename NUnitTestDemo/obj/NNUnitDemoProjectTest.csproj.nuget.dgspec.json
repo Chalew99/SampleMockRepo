@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\NUnitTestDemo\\NNUnitDemoProjectTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\NUnitTestDemo\\NNUnitDemoProjectTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\NUnitTestDemo\\NNUnitDemoProjectTest.csproj",
+        "projectName": "NNUnitDemoProjectTest",
+        "projectPath": "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\NUnitTestDemo\\NNUnitDemoProjectTest.csproj",
+        "packagesPath": "C:\\Users\\v-chmeha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\NUnitTestDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\v-chmeha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\NunitTest\\NUnitDemoProject.csproj": {
+                "projectPath": "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\NunitTest\\NUnitDemoProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0-alpha.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\NunitTest\\NUnitDemoProject.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\NunitTest\\NUnitDemoProject.csproj",
+        "projectName": "NUnitDemoProject",
+        "projectPath": "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\NunitTest\\NUnitDemoProject.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\bin\Debug\netcoreapp3.1\DI-Propery-Setter.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\bin\Debug\netcoreapp3.1\DI-Propery-Setter.deps.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\bin\Debug\netcoreapp3.1\DI-Propery-Setter.runtimeconfig.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\bin\Debug\netcoreapp3.1\DI-Propery-Setter.runtimeconfig.dev.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\bin\Debug\netcoreapp3.1\DI-Propery-Setter.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\bin\Debug\netcoreapp3.1\DI-Propery-Setter.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\obj\Debug\netcoreapp3.1\DI-Propery-Setter.AssemblyInfoInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\obj\Debug\netcoreapp3.1\DI-Propery-Setter.AssemblyInfo.cs
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\obj\Debug\netcoreapp3.1\DI-Propery-Setter.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\obj\Debug\netcoreapp3.1\DI-Propery-Setter.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\obj\Debug\netcoreapp3.1\DI-Propery-Setter.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Propery-Setter\obj\Debug\netcoreapp3.1\DI-Propery-Setter.genruntimeconfig.cache

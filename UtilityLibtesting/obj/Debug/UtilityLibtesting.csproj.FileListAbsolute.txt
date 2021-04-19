@@ -1,0 +1,11 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\bin\Debug\UtilityLibtesting.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\bin\Debug\UtilityLibtesting.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\bin\Debug\UnitTest.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\bin\Debug\UnitTest.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\obj\Debug\UtilityLibtesting.csprojAssemblyReference.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\obj\Debug\UtilityLibtesting.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\obj\Debug\UtilityLibtesting.csproj.CopyComplete
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\obj\Debug\UtilityLibtesting.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\obj\Debug\UtilityLibtesting.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\bin\Debug\nunit.framework.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\UtilityLibtesting\bin\Debug\nunit.framework.xml

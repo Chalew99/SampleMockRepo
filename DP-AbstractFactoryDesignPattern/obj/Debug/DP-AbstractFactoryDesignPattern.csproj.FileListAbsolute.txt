@@ -1,0 +1,6 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-AbstractFactoryDesignPattern\bin\Debug\DP-AbstractFactoryDesignPattern.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-AbstractFactoryDesignPattern\bin\Debug\DP-AbstractFactoryDesignPattern.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-AbstractFactoryDesignPattern\bin\Debug\DP-AbstractFactoryDesignPattern.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-AbstractFactoryDesignPattern\obj\Debug\DP-AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-AbstractFactoryDesignPattern\obj\Debug\DP-AbstractFactoryDesignPattern.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-AbstractFactoryDesignPattern\obj\Debug\DP-AbstractFactoryDesignPattern.pdb

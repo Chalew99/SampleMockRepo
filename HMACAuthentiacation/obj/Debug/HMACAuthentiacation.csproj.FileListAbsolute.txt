@@ -1,0 +1,6 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\HMACAuthentiacation\bin\Debug\HMACAuthentiacation.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\HMACAuthentiacation\bin\Debug\HMACAuthentiacation.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\HMACAuthentiacation\bin\Debug\HMACAuthentiacation.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\HMACAuthentiacation\obj\Debug\HMACAuthentiacation.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\HMACAuthentiacation\obj\Debug\HMACAuthentiacation.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\HMACAuthentiacation\obj\Debug\HMACAuthentiacation.pdb

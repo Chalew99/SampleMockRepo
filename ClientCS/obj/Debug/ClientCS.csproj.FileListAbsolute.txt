@@ -1,0 +1,10 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientCS\bin\Debug\ClientCS.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientCS\bin\Debug\ClientCS.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientCS\bin\Debug\ClientCS.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientCS\bin\Debug\DemoCS.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientCS\bin\Debug\DemoCS.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientCS\obj\Debug\ClientCS.csprojAssemblyReference.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientCS\obj\Debug\ClientCS.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientCS\obj\Debug\ClientCS.csproj.CopyComplete
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientCS\obj\Debug\ClientCS.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientCS\obj\Debug\ClientCS.pdb

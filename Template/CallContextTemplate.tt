@@ -1,0 +1,18 @@
+﻿<#@ template language="C#" hostspecific="true" #>
+<#@ output extension=".txt" #>
+<#@ import namespace="System.IO" #>
+<#@ import namespace="System.Runtime.Remoting.Messaging" #>
+<#@ import namespace="Microsoft.VisualStudio.TextTemplating" #>
+<#
+  string templateFile = this.Host.ResolvePath("MyTemplate.tt");
+  string templateContent = File.ReadAllText(templateFile);
+
+  CallContext.LogicalSetData("MyParameter", "CallContextValue");
+
+  Engine engine = new Engine();
+  string generatedContent = engine.ProcessTemplate(templateContent, this.Host);
+
+  CallContext.FreeNamedDataSlot("MyParameter");
+
+  this.Write(generatedContent);
+#>

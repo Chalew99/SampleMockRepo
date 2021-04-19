@@ -1,0 +1,12 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\bin\Debug\netcoreapp3.1\DI-Method.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\bin\Debug\netcoreapp3.1\DI-Method.deps.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\bin\Debug\netcoreapp3.1\DI-Method.runtimeconfig.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\bin\Debug\netcoreapp3.1\DI-Method.runtimeconfig.dev.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\bin\Debug\netcoreapp3.1\DI-Method.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\bin\Debug\netcoreapp3.1\DI-Method.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\obj\Debug\netcoreapp3.1\DI-Method.AssemblyInfoInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\obj\Debug\netcoreapp3.1\DI-Method.AssemblyInfo.cs
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\obj\Debug\netcoreapp3.1\DI-Method.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\obj\Debug\netcoreapp3.1\DI-Method.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\obj\Debug\netcoreapp3.1\DI-Method.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Method\obj\Debug\netcoreapp3.1\DI-Method.genruntimeconfig.cache

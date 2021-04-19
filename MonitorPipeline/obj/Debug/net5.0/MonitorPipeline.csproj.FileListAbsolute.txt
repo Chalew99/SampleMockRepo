@@ -1,0 +1,5 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\MonitorPipeline\obj\Debug\net5.0\MonitorPipeline.csprojAssemblyReference.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\MonitorPipeline\obj\Debug\net5.0\MonitorPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-chmeha\source\repos\SampleMockProject\MonitorPipeline\obj\Debug\net5.0\MonitorPipeline.AssemblyInfoInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\MonitorPipeline\obj\Debug\net5.0\MonitorPipeline.AssemblyInfo.cs
+C:\Users\v-chmeha\source\repos\SampleMockProject\MonitorPipeline\obj\Debug\net5.0\MonitorPipeline.csproj.CoreCompileInputs.cache

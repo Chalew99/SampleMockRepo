@@ -1,0 +1,8 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\TicketBookingCore\bin\Debug\netcoreapp3.1\TicketBookingCore.deps.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\TicketBookingCore\bin\Debug\netcoreapp3.1\TicketBookingCore.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\TicketBookingCore\bin\Debug\netcoreapp3.1\TicketBookingCore.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.AssemblyInfoInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.AssemblyInfo.cs
+C:\Users\v-chmeha\source\repos\SampleMockProject\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\TicketBookingCore\obj\Debug\netcoreapp3.1\TicketBookingCore.pdb

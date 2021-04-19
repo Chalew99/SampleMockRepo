@@ -1,0 +1,6 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-FactoryMethodDesign\bin\Debug\DP-FactoryMethodDesign.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-FactoryMethodDesign\bin\Debug\DP-FactoryMethodDesign.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-FactoryMethodDesign\bin\Debug\DP-FactoryMethodDesign.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-FactoryMethodDesign\obj\Debug\DP-FactoryMethodDesign.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-FactoryMethodDesign\obj\Debug\DP-FactoryMethodDesign.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-FactoryMethodDesign\obj\Debug\DP-FactoryMethodDesign.pdb

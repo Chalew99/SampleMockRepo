@@ -1,0 +1,12 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\bin\Debug\netcoreapp3.1\DP-Factory.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\bin\Debug\netcoreapp3.1\DP-Factory.deps.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\bin\Debug\netcoreapp3.1\DP-Factory.runtimeconfig.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\bin\Debug\netcoreapp3.1\DP-Factory.runtimeconfig.dev.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\bin\Debug\netcoreapp3.1\DP-Factory.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\bin\Debug\netcoreapp3.1\DP-Factory.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\obj\Debug\netcoreapp3.1\DP-Factory.AssemblyInfoInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\obj\Debug\netcoreapp3.1\DP-Factory.AssemblyInfo.cs
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\obj\Debug\netcoreapp3.1\DP-Factory.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\obj\Debug\netcoreapp3.1\DP-Factory.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\obj\Debug\netcoreapp3.1\DP-Factory.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory\obj\Debug\netcoreapp3.1\DP-Factory.genruntimeconfig.cache

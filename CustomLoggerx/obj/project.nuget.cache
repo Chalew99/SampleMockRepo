@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6mUS+rYj1qDCEDjmKcplddwYJ7gWAd/MfuMx9qT4mgc38J8JYYsLmQ7/D1RDGdirss2yXU0tGUPRFHosg0G3DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-chmeha\\source\\repos\\SampleMockProject\\CustomLogger\\CustomLoggerx.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-chmeha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0-preview.1.21102.12\\microsoft.extensions.dependencyinjection.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\v-chmeha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\v-chmeha\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0-preview.1.21102.12\\microsoft.extensions.logging.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\v-chmeha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.logging.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\v-chmeha\\.nuget\\packages\\microsoft.extensions.options\\6.0.0-preview.1.21102.12\\microsoft.extensions.options.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\v-chmeha\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.1.21102.12\\microsoft.extensions.primitives.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\v-chmeha\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0-preview.1.21102.12\\system.diagnostics.diagnosticsource.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\v-chmeha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.1.21102.12\\system.runtime.compilerservices.unsafe.6.0.0-preview.1.21102.12.nupkg.sha512"
+  ],
+  "logs": []
+}

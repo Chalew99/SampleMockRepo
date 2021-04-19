@@ -1,0 +1,10 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientClass\bin\Debug\ClientClass.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientClass\bin\Debug\ClientClass.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientClass\bin\Debug\ClientClass.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientClass\bin\Debug\HelloServiceClass.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientClass\obj\Debug\ClientClass.csprojAssemblyReference.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientClass\obj\Debug\ClientClass.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientClass\obj\Debug\ClientClass.csproj.CopyComplete
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientClass\obj\Debug\ClientClass.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientClass\obj\Debug\ClientClass.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\ClientClass\bin\Debug\HelloServiceClass.pdb

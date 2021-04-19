@@ -1,0 +1,6 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\StubVsMoq\bin\Debug\StubVsMoq.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\StubVsMoq\bin\Debug\StubVsMoq.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\StubVsMoq\bin\Debug\StubVsMoq.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\StubVsMoq\obj\Debug\StubVsMoq.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\StubVsMoq\obj\Debug\StubVsMoq.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\StubVsMoq\obj\Debug\StubVsMoq.pdb

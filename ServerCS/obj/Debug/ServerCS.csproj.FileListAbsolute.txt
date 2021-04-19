@@ -1,0 +1,7 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\ServerCS\bin\Debug\ServerCS.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\ServerCS\bin\Debug\ServerCS.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\ServerCS\bin\Debug\ServerCS.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\ServerCS\obj\Debug\ServerCS.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\ServerCS\obj\Debug\ServerCS.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\ServerCS\obj\Debug\ServerCS.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\ServerCS\obj\Debug\ServerCS.csprojAssemblyReference.cache

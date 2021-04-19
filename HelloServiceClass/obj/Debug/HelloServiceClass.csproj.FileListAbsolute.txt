@@ -1,0 +1,5 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\HelloServiceClass\bin\Debug\HelloServiceClass.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\HelloServiceClass\bin\Debug\HelloServiceClass.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\HelloServiceClass\obj\Debug\HelloServiceClass.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\HelloServiceClass\obj\Debug\HelloServiceClass.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\HelloServiceClass\obj\Debug\HelloServiceClass.pdb

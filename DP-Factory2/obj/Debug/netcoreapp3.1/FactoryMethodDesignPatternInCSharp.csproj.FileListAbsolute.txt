@@ -1,0 +1,12 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.AssemblyInfoInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.AssemblyInfo.cs
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.deps.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.runtimeconfig.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.runtimeconfig.dev.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\bin\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DP-Factory2\obj\Debug\netcoreapp3.1\FactoryMethodDesignPatternInCSharp.genruntimeconfig.cache

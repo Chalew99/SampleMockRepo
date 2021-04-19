@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SECURITY_DBModelStoreContainer" CdmEntityContainer="SECURITY_DBEntities">
+    <EntitySetMapping Name="ClientMasters">
+      <EntityTypeMapping TypeName="SECURITY_DBModel.ClientMaster">
+        <MappingFragment StoreEntitySet="ClientMaster">
+          <ScalarProperty Name="AllowedOrigin" ColumnName="AllowedOrigin" />
+          <ScalarProperty Name="RefreshTokenLifeTime" ColumnName="RefreshTokenLifeTime" />
+          <ScalarProperty Name="Active" ColumnName="Active" />
+          <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+          <ScalarProperty Name="ClientKeyId" ColumnName="ClientKeyId" />
+          <ScalarProperty Name="ClientSecret" ColumnName="ClientSecret" />
+          <ScalarProperty Name="ClientName" ColumnName="ClientName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserMasters">
+      <EntityTypeMapping TypeName="SECURITY_DBModel.UserMaster">
+        <MappingFragment StoreEntitySet="UserMaster">
+          <ScalarProperty Name="UserID" ColumnName="UserID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserPassword" ColumnName="UserPassword" />
+          <ScalarProperty Name="UserRoles" ColumnName="UserRoles" />
+          <ScalarProperty Name="UserEmailID" ColumnName="UserEmailID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RefreshTokens">
+      <EntityTypeMapping TypeName="SECURITY_DBModel.RefreshToken">
+        <MappingFragment StoreEntitySet="RefreshToken">
+          <ScalarProperty Name="ProtectedTicket" ColumnName="ProtectedTicket" />
+          <ScalarProperty Name="ExpiredTime" ColumnName="ExpiredTime" />
+          <ScalarProperty Name="IssuedTime" ColumnName="IssuedTime" />
+          <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,6 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\Template\bin\Debug\Template.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\Template\bin\Debug\Template.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\Template\bin\Debug\Template.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\Template\obj\Debug\Template.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\Template\obj\Debug\Template.pdb

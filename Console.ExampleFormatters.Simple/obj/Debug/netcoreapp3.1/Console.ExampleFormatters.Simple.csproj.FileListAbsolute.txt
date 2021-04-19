@@ -1,0 +1,3 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\Console.ExampleFormatters.Simple\bin\Debug\netcoreapp3.1\Console.ExampleFormatters.Simple.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\Console.ExampleFormatters.Simple\obj\Debug\netcoreapp3.1\Console.ExampleFormatters.Simple.AssemblyInfoInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\Console.ExampleFormatters.Simple\obj\Debug\netcoreapp3.1\Console.ExampleFormatters.Simple.AssemblyInfo.cs

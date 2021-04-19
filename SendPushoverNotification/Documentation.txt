@@ -1,0 +1,1 @@
+﻿http://dontcodetired.com/blog/post/Creating-Custom-Azure-Functions-Bindings

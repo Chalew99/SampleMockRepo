@@ -1,0 +1,6 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\Calculator\bin\Debug\Calculator.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\Calculator\bin\Debug\Calculator.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\Calculator\obj\Debug\Calculator.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\Calculator\obj\Debug\Calculator.pdb

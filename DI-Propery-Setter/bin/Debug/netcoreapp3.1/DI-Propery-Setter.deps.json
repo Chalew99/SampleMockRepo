@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DI-Propery-Setter/1.0.0": {
+        "runtime": {
+          "DI-Propery-Setter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DI-Propery-Setter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

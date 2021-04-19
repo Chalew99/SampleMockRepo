@@ -1,0 +1,5 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitTestDemo\bin\Debug\netcoreapp3.1\NUnitTestDemo.deps.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitTestDemo\bin\Debug\netcoreapp3.1\NUnitTestDemo.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitTestDemo\obj\Debug\netcoreapp3.1\NUnitTestDemo.AssemblyInfoInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitTestDemo\obj\Debug\netcoreapp3.1\NUnitTestDemo.AssemblyInfo.cs
+C:\Users\v-chmeha\source\repos\SampleMockProject\NUnitTestDemo\obj\Debug\netcoreapp3.1\NUnitTestDemo.csprojAssemblyReference.cache

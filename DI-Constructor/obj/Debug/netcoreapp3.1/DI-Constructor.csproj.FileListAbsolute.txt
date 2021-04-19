@@ -1,0 +1,12 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\bin\Debug\netcoreapp3.1\DI-Constructor.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\bin\Debug\netcoreapp3.1\DI-Constructor.deps.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\bin\Debug\netcoreapp3.1\DI-Constructor.runtimeconfig.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\bin\Debug\netcoreapp3.1\DI-Constructor.runtimeconfig.dev.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\bin\Debug\netcoreapp3.1\DI-Constructor.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\bin\Debug\netcoreapp3.1\DI-Constructor.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\obj\Debug\netcoreapp3.1\DI-Constructor.AssemblyInfoInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\obj\Debug\netcoreapp3.1\DI-Constructor.AssemblyInfo.cs
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\obj\Debug\netcoreapp3.1\DI-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\obj\Debug\netcoreapp3.1\DI-Constructor.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\obj\Debug\netcoreapp3.1\DI-Constructor.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-Constructor\obj\Debug\netcoreapp3.1\DI-Constructor.genruntimeconfig.cache

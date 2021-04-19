@@ -1,0 +1,13 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\bin\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\bin\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.deps.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\bin\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.runtimeconfig.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\bin\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.runtimeconfig.dev.json
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\bin\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\bin\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\obj\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.AssemblyInfoInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\obj\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.AssemblyInfo.cs
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\obj\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\obj\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.dll
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\obj\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\obj\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.genruntimeconfig.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\DI-ServiceLocator\obj\Debug\netcoreapp3.1\DI-ServiceLocator-Strong Type.csprojAssemblyReference.cache

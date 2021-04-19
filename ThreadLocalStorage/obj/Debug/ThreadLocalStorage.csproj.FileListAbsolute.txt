@@ -1,0 +1,6 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\ThreadLocalStorage\obj\Debug\ThreadLocalStorage.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\ThreadLocalStorage\bin\Debug\ThreadLocalStorage.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\ThreadLocalStorage\bin\Debug\ThreadLocalStorage.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\ThreadLocalStorage\bin\Debug\ThreadLocalStorage.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\ThreadLocalStorage\obj\Debug\ThreadLocalStorage.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\ThreadLocalStorage\obj\Debug\ThreadLocalStorage.pdb

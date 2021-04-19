@@ -1,0 +1,7 @@
+C:\Users\v-chmeha\source\repos\SampleMockProject\LogicalContext\obj\Debug\LogicalContext.csproj.CoreCompileInputs.cache
+C:\Users\v-chmeha\source\repos\SampleMockProject\LogicalContext\bin\Debug\LogicalContext.exe.config
+C:\Users\v-chmeha\source\repos\SampleMockProject\LogicalContext\bin\Debug\LogicalContext.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\LogicalContext\bin\Debug\LogicalContext.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\LogicalContext\obj\Debug\LogicalContext.exe
+C:\Users\v-chmeha\source\repos\SampleMockProject\LogicalContext\obj\Debug\LogicalContext.pdb
+C:\Users\v-chmeha\source\repos\SampleMockProject\LogicalContext\obj\Debug\LogicalContext.csprojAssemblyReference.cache
